@@ -3,7 +3,7 @@ Scrapy framework to fetch data from website using Python
 
 Steps to Fetch Data From Website
 =================================
-1. Install Scrapy
+1. Install Scrapy:
 	pip install Scrapy
 2. Start a Scrapy project using the code:
 	scrapy startproject ctrip
@@ -13,7 +13,7 @@ Steps to Fetch Data From Website
 
 Steps to Upload the Data to Dropbox
 ====================================
-1. Install Dropbox module
+1. Install Dropbox module:
 	pip install dropbox
 2. Create an app under your own dropbox account in the "App Console". (https://www.dropbox.com/developers/apps)
 3. Click the "generate access token" button and get access_token and paste it in the python code named dropbox_code.py.
