@@ -6,5 +6,5 @@ Steps
 2. Start a Scrapy project using the code:
 	scrapy startproject ctrip
 3. Copy the python file myspider.py to ctrip/spiders folder
-4. From the project's top level directory, run the spider and save it to a csv file named ctrip_list:
-	scrapy crawl ctrip -o ctrip_list.csv
+4. From the project's top level directory, run the spider and save it to a csv file named ctrip_data:
+	scrapy crawl ctrip -o ctrip_data.csv

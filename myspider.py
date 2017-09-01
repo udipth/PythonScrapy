@@ -10,5 +10,6 @@ class myspider(scrapy.Spider):
             yield {
                 'name': k.css('searchresult_name, a::attr(title)').re_first(r'\((.*?)\)') ,
                 'rating': k.css('span.hotel_value::text').extract_first() ,
-                'image': k.css('view_pic view_pic_fall_down, img::attr(src)').extract_first(),
+                'price': k.css('span.J_price_lowList::text').extract_first(),
+                'image': k.css('view_pic view_pic_fall_down, img::attr(src)').extract_first()
             }
