@@ -12,5 +12,3 @@ class myspider(scrapy.Spider):
                 'rating': k.css('span.hotel_value::text').extract_first() ,
                 'tags': k.css('view_pic view_pic_fall_down, img::attr(src)').extract_first(),
             }
-
-
