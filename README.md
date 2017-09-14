@@ -1,20 +1,20 @@
 # PythonScrapy
 Scrapy framework to fetch data from website using Python
 
-Steps to Fetch Data From Website
+Prerequisites
 =================================
-1. Install Scrapy:
+1.Scrapy should be installed. 
+Install Scrapy:
 	pip install Scrapy
-2. Start a Scrapy project using the code:
-	scrapy startproject ctrip
-3. Copy the python file myspider.py to ctrip/spiders folder
-4. From the project's top level directory, run the spider and save it to a csv file named ctrip_data:
-	scrapy crawl ctrip -o ctrip_data.csv
-
-Steps to Upload the Data to Dropbox
-====================================
-1. Install Dropbox module:
+2.Install Dropbox module:
 	pip install dropbox
-2. Create an app under your own dropbox account in the "App Console". (https://www.dropbox.com/developers/apps)
-3. Click the "generate access token" button and get access_token and paste it in the python code named dropbox_code.py.
-4. Run dropbox_code.py.
+3.Create a Dropbox App
+	Create an app under your own dropbox account in the "App Console". (https://www.dropbox.com/developers/apps)
+	Click the "generate access token" button and get access_token and paste it in the python codefile named ctrip.py.
+	
+How to Run the Code
+======================
+After pasting the Access Token in the source code, run the python code:
+ 	python ctrip.py
+Alternatively, you can also run it in IDLE (Run module/ F5).
+It will fetch the data from all pages of website using Scrapy, save the file as csv in the current directory and upload the file to dropbox automatically.
