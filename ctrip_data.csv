@@ -1,26 +1,251 @@
-rating,price,name,image
-4.7,620,The Grand Hotel,//dimg11.c-ctrip.com/images/hotel/91000/90555/4782d47c10b64e138d956c85588360ab_R_130_130.jpg
-4.7,832,台北忠孝馆,//dimg13.c-ctrip.com/images/fd/hotel/g4/M07/48/38/CggYHFZ3mc2AQL5QAALQc19ddGA347_R_130_130.jpg
-4.5,515,U Hotel Taipei,//dimg11.c-ctrip.com/images/2005050000000cawp7159_R_130_130.jpg
-4.5,590,COSMOS HOTEL TAIPEI,//dimg10.c-ctrip.com/images/fd/hotel/g4/M04/B9/BA/CggYHFZBmUSATYhbAAKyGGnwteg334_R_130_130.jpg
-4.5,797,SAN WANT HOTEL,//dimg13.c-ctrip.com/images/200i060000001onpc095A_R_130_130.jpg
-4.6,1099,Sheraton Grand Taipei Hotel,//dimg11.c-ctrip.com/images/hotel/77000/76421/630462E0-C059-4553-8221-73B0EE492538_R_130_130.jpg
-4.6,757,Taipei Garden Hotel,//dimg12.c-ctrip.com/images/hotel/860000/859541/8dcaf6d0ba0e4238b1e83ad6e8b610ff_R_130_130.jpg
-4.7,1010,Courtyard Taipei,//dimg12.c-ctrip.com/images/200r0400000007rxmE151_R_130_130.jpg
-4.3,415,Hotel Riverview Taipei,//dimg11.c-ctrip.com/images/fd/hotel/g1/M05/8F/20/CghzfVVStPyAX1LaAAyJGjZ2S3s067_R_130_130.jpg
-4.7,1060,Regent Taipei,//dimg11.c-ctrip.com/images/t1/hotel/997000/996802/04a0bfaa4f1d46bc82374801ce8cdd82_R_130_130.jpg
-4.8,2197,Mandarin Oriental Taipei,//dimg11.c-ctrip.com/images/hotel/977000/976513/17fdaf6bfdc64e898bfbf7f8a6093574_R_130_130.jpg
-4.5,356,Li Han Hotel,//dimg12.c-ctrip.com/images/200d0a0000004r5576ECB_R_130_130.jpg
-4.6,780,台北民生馆,//dimg10.c-ctrip.com/images/fd/hotel/g2/M03/8F/D5/CghzgFWJE26AYrlUAAK_ye2owVY223_R_130_130.jpg
-4.5,463,CAPITAL  WAIKOLOA HOTEL,//dimg11.c-ctrip.com/images/fd/hotel/g4/M00/D7/40/CggYHlXW8aCABI7ZAADxEZO5DCk948_R_130_130.jpg
-4.7,1060,MADISON TAIPEI HOTEL,//dimg11.c-ctrip.com/images/hotel/736000/735549/b10c02e8ed774afab1ae68a7abf75f76_R_130_130.jpg
-4.4,681,Spring City Resort,//dimg12.c-ctrip.com/images/fd/hotel/g6/M06/14/5C/CggYs1arIcqANZd9AAG8XriFjao483_R_130_130.jpg
-4.6,1317,The Westin Taipei,//dimg10.c-ctrip.com/images/fd/hotel/g5/M0A/95/D5/CggYsVcQX7yAHSn_AAEleYL8fqY556_R_130_130.jpg
-4.5,588,River View Suite Taipei-New,//dimg12.c-ctrip.com/images/fd/hotel/g1/M04/8F/F3/CghzfVVSuQSAZttfABJjpMM-EU0959_R_130_130.jpg
-4.5,396,Newstay Inn II,//dimg10.c-ctrip.com/images/fd/hotel/g4/M03/C4/C8/CggYHFXtH36AaV6DAADA0UWect0616_R_130_130.jpg
-4.5,682,Green World ZhongHua,//dimg12.c-ctrip.com/images/t1/hotel/992000/991119/f9e03adecd634124bd1603451d405ccf_R_130_130.jpg
-4.7,795,HOTEL QUOTE Taipei,//dimg10.c-ctrip.com/images/fd/hotel/g4/M0B/EC/DB/CggYHVXafrqAXVX-AAD6-abCwCI309_R_130_130.jpg
-4.6,974,ITaipei Service Apartment,//dimg12.c-ctrip.com/images/200v0j000000ai3l91609_R_130_130.jpg
-4.4,414,VENDOME EAST INN,//dimg13.c-ctrip.com/images/200p060000001il34EC28_R_130_130.jpg
-4.5,421,Your Hotel,//dimg11.c-ctrip.com/images/200l0g0000007qf3sE621_R_130_130.jpg
-4.4,400,Vendome Hotel,//dimg12.c-ctrip.com/images/fd/hotel/g6/M03/76/EF/CggYtFb8B8eAbfRmAACKbJDd6uU075_R_130_130.jpg
+rating,image,name
+4.5,//dimg13.c-ctrip.com/images/200s0400000005j17F00E_R_130_130.jpg,Hope City Fu Shing Hotel
+4.6,//dimg10.c-ctrip.com/images/hotel/469000/468491/aabf46c2f9b148acb1e584b4487cb567_R_130_130.jpg,Orange Hotel Ximen
+4.3,//dimg13.c-ctrip.com/images/fd/hotel/g4/M03/D7/7E/CggYHVXW9BWAKK0-AAH1WKO0HaU187_R_130_130.jpg,Hotel Puri Ximen
+4.5,//dimg11.c-ctrip.com/images/fd/hotel/g4/M04/F6/18/CggYHlXbv7OAeJaYAADh0S_veis337_R_130_130.jpg,Ambience Hotel
+4.5,//dimg13.c-ctrip.com/images/200r060000001onvo6AF9_R_130_130.jpg,FX Hotel Taipei Nanjing East Rd.
+4.4,//dimg11.c-ctrip.com/images/t1/hotel/1068000/1067757/68b966b93c0f4bfdb443070a04f55b6e_R_130_130.jpg,Yoyo Hotel
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g5/M0B/10/5A/CggYsVb0I4yAdcKoAAC19F-C_aI948_R_130_130.jpg,Beitou Hot Spring Resort
+4.6,//dimg13.c-ctrip.com/images/fd/hotel/g5/M08/A8/EF/CggYsFb4orSAP9YFAD9UgrxnloE970_R_130_130.jpg,C U Hotel Taipei
+4.4,//dimg13.c-ctrip.com/images/200d0e000000715w6411B_R_130_130.jpg,dream home
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g3/M01/F4/65/CggYG1XbxGGAC4sgAAEBnzsocLw729_R_130_130.jpg,THE MIRAMAR GARDEN TAIPEI
+4.3,//dimg11.c-ctrip.com/images/t1/hotel/669000/668062/380a8002dfff4105865ecd25c266de43_R_130_130.jpg,Fortune Hiya Hotel
+4.2,//dimg12.c-ctrip.com/images/fd/hotel/g3/M0A/17/67/CggYGlZqMQGAQWxBAA42QNcYYHQ680_R_130_130.jpg,LAN TING BUSINESS INN
+4.8,//dimg13.c-ctrip.com/images/20060900000047svnFD5E_R_130_130.jpg,Evergreen Laurel Hotel Taipei
+4.5,//dimg12.c-ctrip.com/images/fd/hotel/g3/M08/4B/25/CggYGlZIp1iALEaKAAL0dSQ2yx8863_R_130_130.jpg,台北馆
+4.4,//dimg10.c-ctrip.com/images/200p070000002etzd081C_R_130_130.jpg,Hotel  B CHIC
+4.3,//dimg13.c-ctrip.com/images/fd/hotel/g2/M0B/B1/49/CghzgFWPfP2AXfhwAARAgXnSces124_R_130_130.jpg,Hotel B6
+4.6,//dimg12.c-ctrip.com/images/t1/hotel/989000/988207/ba5e9899924c46dabfd4dd72bea3945b_R_130_130.jpg,台北车站三馆
+,//dimg12.c-ctrip.com/images/20020i0000009a3qv2704_R_130_130.jpg,Villa 32
+4.7,//dimg10.c-ctrip.com/images/2006060000001m2n65F7F_R_130_130.jpg,Pacific Business Hotel
+4.6,//dimg11.c-ctrip.com/images/200u0f0000007ffkhEE62_R_130_130.jpg,Aloft Taipei Beitou
+4.5,//dimg10.c-ctrip.com/images/200h0d0000006wvw0B29A_R_130_130.jpg,台北西门馆
+4.6,//dimg10.c-ctrip.com/images/20060e00000072agi5E63_R_130_130.jpg,W5 BEST HOTEL (LIDUO
+4.5,//dimg13.c-ctrip.com/images/hotel/925000/924748/0315b16890344cb2bc4b583cd5c6495a_R_130_130.jpg,ECFA Hotel Kunming
+3.9,//dimg11.c-ctrip.com/images/fd/hotel/g1/M06/D5/FB/CghzfFTHPEOAHzkeAARYz2F065w775_R_130_130.jpg,Rainbow Hotel
+4.5,//dimg12.c-ctrip.com/images/hotel/91000/90561/e39387a0beee434a8a1228cc4786410a_R_130_130.jpg,United Hotel
+4.7,//dimg11.c-ctrip.com/images/hotel/91000/90555/4782d47c10b64e138d956c85588360ab_R_130_130.jpg,The Grand Hotel
+4.7,//dimg13.c-ctrip.com/images/fd/hotel/g4/M07/48/38/CggYHFZ3mc2AQL5QAALQc19ddGA347_R_130_130.jpg,台北忠孝馆
+4.5,//dimg13.c-ctrip.com/images/200i060000001onpc095A_R_130_130.jpg,SAN WANT HOTEL
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g4/M04/B9/BA/CggYHFZBmUSATYhbAAKyGGnwteg334_R_130_130.jpg,COSMOS HOTEL TAIPEI
+4.8,//dimg11.c-ctrip.com/images/hotel/977000/976513/17fdaf6bfdc64e898bfbf7f8a6093574_R_130_130.jpg,Mandarin Oriental Taipei
+4.6,//dimg13.c-ctrip.com/images/200c0k000000buzqzAD13_R_130_130.jpg,Sheraton Grand Taipei Hotel
+4.6,//dimg12.c-ctrip.com/images/hotel/860000/859541/8dcaf6d0ba0e4238b1e83ad6e8b610ff_R_130_130.jpg,Taipei Garden Hotel
+4.7,//dimg12.c-ctrip.com/images/200r0400000007rxmE151_R_130_130.jpg,Courtyard Taipei
+4.3,//dimg11.c-ctrip.com/images/fd/hotel/g1/M05/8F/20/CghzfVVStPyAX1LaAAyJGjZ2S3s067_R_130_130.jpg,Hotel Riverview Taipei
+4.7,//dimg11.c-ctrip.com/images/t1/hotel/997000/996802/04a0bfaa4f1d46bc82374801ce8cdd82_R_130_130.jpg,Regent Taipei
+4.6,//dimg10.c-ctrip.com/images/fd/hotel/g2/M03/8F/D5/CghzgFWJE26AYrlUAAK_ye2owVY223_R_130_130.jpg,台北民生馆
+4.5,//dimg12.c-ctrip.com/images/200d0a0000004r5576ECB_R_130_130.jpg,Li Han Hotel
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g6/M06/14/5C/CggYs1arIcqANZd9AAG8XriFjao483_R_130_130.jpg,Spring City Resort
+4.5,//dimg11.c-ctrip.com/images/fd/hotel/g4/M00/D7/40/CggYHlXW8aCABI7ZAADxEZO5DCk948_R_130_130.jpg,CAPITAL  WAIKOLOA HOTEL
+4.7,//dimg12.c-ctrip.com/images/fd/hotel/g4/M03/E2/E1/CggYHFZf9lOAIYEHAAFwaTJilPM042_R_130_130.jpg,HOTEL PROVERBS TAIPEI
+4.7,//dimg11.c-ctrip.com/images/hotel/736000/735549/b10c02e8ed774afab1ae68a7abf75f76_R_130_130.jpg,MADISON TAIPEI HOTEL
+4.7,//dimg10.c-ctrip.com/images/fd/hotel/g4/M0B/EC/DB/CggYHVXafrqAXVX-AAD6-abCwCI309_R_130_130.jpg,HOTEL QUOTE Taipei
+4.5,//dimg12.c-ctrip.com/images/fd/hotel/g1/M04/8F/F3/CghzfVVSuQSAZttfABJjpMM-EU0959_R_130_130.jpg,River View Suite Taipei-New
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g4/M03/C4/C8/CggYHFXtH36AaV6DAADA0UWect0616_R_130_130.jpg,Newstay Inn II
+4.6,//dimg10.c-ctrip.com/images/fd/hotel/g5/M0A/95/D5/CggYsVcQX7yAHSn_AAEleYL8fqY556_R_130_130.jpg,The Westin Taipei
+4.5,//dimg12.c-ctrip.com/images/200v0j000000ai3l91609_R_130_130.jpg,ITaipei Service Apartment
+4.4,//dimg13.c-ctrip.com/images/200p060000001il34EC28_R_130_130.jpg,VENDOME EAST INN
+4.5,//dimg11.c-ctrip.com/images/200l0g0000007qf3sE621_R_130_130.jpg,Your Hotel
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g6/M04/AE/D3/CggYs1b4lkmAXTNUABPCxZl-3eg952_R_130_130.jpg,原商旅士林官邸别馆
+4.5,//dimg12.c-ctrip.com/images/t1/hotel/1100000/1099215/4ddbcf1f75c74aeab439aa89177832ea_R_130_130.jpg,Green World Station
+4.5,//dimg12.c-ctrip.com/images/200w0a00000051s76DE63_R_130_130.jpg,Wego Funtel
+4.3,//dimg10.c-ctrip.com/images/fd/hotel/g5/M04/2B/6E/CggYr1bNSH6AdDjFAAF_Dm9rvXw108_R_130_130.jpg,Taipei Fullerton Hotel East
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g4/M08/ED/8E/CggYHVXajUiAElFpAADdvAILum0026_R_130_130.jpg,Forward Hotel Taipei
+4.6,//dimg13.c-ctrip.com/images/fd/hotel/g3/M08/FB/71/CggYGlXdTmKADq4KAAONMKuE8h4924_R_130_130.jpg,Sparkle Hotel
+4.5,//dimg12.c-ctrip.com/images/fd/hotel/g4/M06/B9/9D/CggYHFYvGNKAHMk_AAH9mhkwWz0129_R_130_130.jpg,Taipei Hotel B7 Journey
+4.4,//dimg12.c-ctrip.com/images/200a0h0000008zepaC989_R_130_130.jpg,Xiemen Relite Hotel Taipei
+3.7,//dimg10.c-ctrip.com/images/200p0f0000007exdp1E77_R_130_130.jpg,The Koos Hotel Dahu
+4.7,//dimg10.c-ctrip.com/images/fd/hotel/g3/M0B/68/7D/CggYGVXmrFmAPBueAAoxS7wVUmw434_R_130_130.jpg,W Taipei
+4.6,//dimg13.c-ctrip.com/images/t1/hotel/917000/916104/563ec865d4224d98b0e89fd49b51afc3_R_130_130.jpg,Horizon Inn
+4.2,//dimg10.c-ctrip.com/images/t1/hotel/1103000/1102704/e8ce7bcb06af48d08590f4a2085c8a34_R_130_130.jpg,Friends Hotel Yoxing Regency
+4.3,//dimg13.c-ctrip.com/images/fd/hotel/g1/M07/E8/3B/CghzfVV5czGAAxCrAAiJIDSFFuM660_R_130_130.jpg,CHYUAN DU SPRING RESORT
+4.5,//dimg13.c-ctrip.com/images/2007060000001onozFCE1_R_130_130.jpg,The Riviera Hotel Taipei
+4.0,//dimg13.c-ctrip.com/images/200m060000001ggmsAB57_R_130_130.jpg,taisugar hotel
+4.4,//dimg11.c-ctrip.com/images/2004070000002espt7A17_R_130_130.jpg,I Play Inn
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g6/M03/73/D7/CggYs1bvtmeAVs-6AAILIpPI3fw683_R_130_130.jpg,台北宁夏馆
+4.3,//dimg12.c-ctrip.com/images/t1/hotel/977000/976388/6779de57e9e04c25a2be21c7315a24d5_R_130_130.jpg,台北松山店
+4.5,//dimg11.c-ctrip.com/images/t1/hotel/1290000/1289590/465b1b7b207b4d339080e135f140aadf_R_130_130.jpg,Rose Boutique Hotel-Ximen
+4.8,//dimg11.c-ctrip.com/images/fd/hotel/g1/M03/B4/C9/CghzfVWofzWAQLaOAAB03G1P48Y743_R_130_130.jpg,Muses2 Taipei
+4.3,//dimg10.c-ctrip.com/images/2003060000001opsd8EC8_R_130_130.jpg,mulan city villa motel
+4.3,//dimg11.c-ctrip.com/images/200d0800000039sbxD231_R_130_130.jpg,开封馆
+,//dimg12.c-ctrip.com/images/200j0h0000008v6stFBA0_R_130_130.jpg,
+4.2,//dimg12.c-ctrip.com/images/200g050000000mysm4B9E_R_130_130.jpg,DAHSHIN HOTEL
+4.7,//dimg12.c-ctrip.com/images/200k060000001ot7vA2D1_R_130_130.jpg,K-Hotel Songjiang
+4.4,//dimg11.c-ctrip.com/images/fd/hotel/g3/M0A/5E/7B/CggYGlYI29GAbcWXAABpyhCatPk949_R_130_130.jpg,Forte Orange Hotel- Linsen
+4.2,//dimg12.c-ctrip.com/images/2008060000001j0ef4CE8_R_130_130.jpg,Lotus Garden Hotel
+4.7,//dimg12.c-ctrip.com/images/fd/hotel/g4/M08/FB/6E/CggYHFX_7nCAehIiAAG19OQVsA0027_R_130_130.jpg,衡阳馆
+4.7,//dimg10.c-ctrip.com/images/200b090000003xobe2411_R_130_130.jpg,Hotel June
+4.2,//dimg13.c-ctrip.com/images/fd/hotel/g4/M01/FB/4D/CggYHFXcIdqANBI1AAEskqdL1ck883_R_130_130.jpg,Chair Man Hotel
+4.7,//dimg13.c-ctrip.com/images/fd/hotel/g5/M09/0F/B2/CggYsVb0IQSAO2PbAAOx6IbF_Ks132_R_130_130.jpg,Hotel Relax II
+3.9,//dimg10.c-ctrip.com/images/200c0g00000086yysD35A_R_130_130.jpg,JIA RONG HOSTEL
+4.5,//dimg10.c-ctrip.com/images/hotel/481000/480089/560263835d3241ecb4d89944325baa63_R_130_130.jpg,Miyi Hotel
+4.6,//dimg10.c-ctrip.com/images/fd/hotel/g3/M04/F5/1D/CggYGVXbynSANExCAAFPdmUN9PE939_R_130_130.jpg,Chaiin Hotel - Dongmen
+4.4,//dimg13.c-ctrip.com/images/fd/hotel/g2/M0B/9A/50/CghzgVWDxaCAM6GuAAESnhutwJE157_R_130_130.jpg,Hotel B7
+4.7,//dimg12.c-ctrip.com/images/200l08000000309961DEC_R_130_130.jpg,DANDY DAAN HOTEL
+4.5,//dimg11.c-ctrip.com/images/200s0c0000006488098CC_R_130_130.jpg,台北天津店
+4.2,//dimg13.c-ctrip.com/images/2002050000000o4eb095B_R_130_130.jpg,Taipei M Hotel- Main Station
+4.7,//dimg12.c-ctrip.com/images/t1/hotel/1182000/1181758/e28830f883c7436b9a7b8585a6899f97_R_130_130.jpg,HOMEY HOUSE
+4.3,//dimg13.c-ctrip.com/images/fd/hotel/g4/M09/FC/D3/CggYHFXubmaABjj3AAQLFwfUWio193_R_130_130.jpg,Royal Hotel
+4.5,//dimg11.c-ctrip.com/images/t1/hotel/994000/993468/13e714fbb465445ba3175f13206cc7df_R_130_130.jpg,台北西门捷运店
+4.5,//dimg13.c-ctrip.com/images/20020f0000007bb3nACE4_R_130_130.jpg,原谦商旅
+4.7,//dimg10.c-ctrip.com/images/hotel/929000/928536/6e9e08c46b5e479e837f2a6bcd3a5e2c_R_130_130.jpg,San Want Residences Taipei
+4.3,//dimg12.c-ctrip.com/images/fd/hotel/g5/M05/18/88/CggYsVb0ZH6AKpNlAAZGnUK_7RM903_R_130_130.jpg,Dongmen Hotel
+4.7,//dimg13.c-ctrip.com/images/200r0h0000008tdwwA5C8_R_130_130.jpg,Urtrip Hotel
+4.3,//dimg12.c-ctrip.com/images/fd/hotel/g4/M08/64/C6/CggYHFawO-OAUqXvABB06v8oe0Y261_R_130_130.jpg,Diary of Taipei I
+4.7,//dimg12.c-ctrip.com/images/200o060000001oomaE40A_R_130_130.jpg,庆城馆
+4.7,//dimg10.c-ctrip.com/images/hotel/91000/90601/a98b19935c8f4a87a5ac2701e6582533_R_130_130.jpg,The  Landis Taipei Hotel
+4.6,//dimg12.c-ctrip.com/images/200g060000001ro7343D6_R_130_130.jpg,Bayman Hotel
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g2/M02/2E/5C/Cghzf1VMdK2AO6d9ABrZZe32De4896_R_130_130.jpg,Le Meridien Taipei
+3.9,//dimg12.c-ctrip.com/images/20080d0000006vss23845_R_130_130.jpg,Meistay
+4.9,//dimg10.c-ctrip.com/images/fd/hotel/g6/M07/C5/54/CggYslczn4-AX5teAADJAonTOtQ073_R_130_130.jpg,Lane To Life Apartment
+4.1,//dimg12.c-ctrip.com/images/t1/hotel/1100000/1099445/6cf98194e7244a87bcbaac66b05d4479_R_130_130.jpg,Atami Hotel Taipei Onsen
+4.6,//dimg13.c-ctrip.com/images/200m060000001j896D3FC_R_130_130.jpg,Huashe Hotel
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g6/M00/8E/E0/CggYs1c1w9mAHEcGAAYWtrnlEg4694_R_130_130.jpg,Hotel Relax
+4.3,//dimg13.c-ctrip.com/images/fd/hotel/g2/M02/30/F7/CghzgVV_lhiAFOVVAAF5Fq7ybH8437_R_130_130.jpg,Landis Resort Yangmingshan
+4.7,//dimg13.c-ctrip.com/images/200h070000002qxks0B4C_R_130_130.jpg,Hotel éclat
+4.4,//dimg11.c-ctrip.com/images/2009060000001oqqw1E01_R_130_130.jpg,ColorMix Hotel & Hostel
+4.7,//dimg12.c-ctrip.com/images/hotel/860000/859733/1f7a663791704974b4b7e1c9128dfc05_R_130_130.jpg,台北南西馆
+5.0,//dimg11.c-ctrip.com/images/200s0g00000086qsx06D1_R_130_130.jpg,Uinn Business Hotel Shilin
+4.6,//dimg12.c-ctrip.com/images/200k0c00000066ef7315C_R_130_130.jpg,台北长安122馆
+3.7,//dimg10.c-ctrip.com/images/t1/hotel/702000/701394/bb08f624c2ab4e26ba979e45a75ede35_R_130_130.jpg,RF Pretty Hotel
+4.3,//dimg11.c-ctrip.com/images/hotel/483000/482541/177b5fbe927b4c54aa4b476be88198db_R_130_130.jpg,Green World SongJiang
+3.9,//dimg10.c-ctrip.com/images/t1/hotel/1058000/1057725/46a783c25e2b49c2a296f37cd28cc82e_R_130_130.jpg,Hau Shuang Hotel
+4.5,//dimg13.c-ctrip.com/images/t1/hotel/1442000/1441908/d6c293b6abeb4963a3cab5e20f194b21_R_130_130.jpg,AQUA BELLA HOTEL
+4.0,//dimg10.c-ctrip.com/images/20070d0000006wzyx83A5_R_130_130.jpg,Shin-Shih Hotel coordinate
+4.5,//dimg13.c-ctrip.com/images/fd/hotel/g6/M08/09/FA/CggYslb0ErSAKsWmAAIYKV9Y7OI580_R_130_130.jpg,SWIIO HOTEL
+4.2,//dimg12.c-ctrip.com/images/fd/hotel/g2/M07/4B/8E/Cghzf1VuW5uAFV9MABVTmSn7aM8938_R_130_130.jpg,shihlinstayplus
+4.8,//dimg11.c-ctrip.com/images/fd/hotel/g6/M09/5B/02/CggYtFcgcjaAUq2BAALPKdCrPN4549_R_130_130.jpg,Best Hostel
+4.6,//dimg10.c-ctrip.com/images/200c0500000013x0t8167_R_130_130.jpg,Aloft Taipei Zhongshan
+4.1,//dimg12.c-ctrip.com/images/2006060000001ygtyDB73_R_130_130.jpg,台北长春店
+4.2,//dimg11.c-ctrip.com/images/200i0600000018yx4CA35_R_130_130.jpg,Taipei Metro Stay-Shihlin Stay
+4.4,//dimg10.c-ctrip.com/images/200i0i0000009ce245E72_R_130_130.jpg,台北馆
+4.8,//dimg12.c-ctrip.com/images/200u0h0000008s7jk1D8C_R_130_130.jpg,Place Inn Taipei
+3.9,//dimg12.c-ctrip.com/images/200s070000002et5g58EA_R_130_130.jpg,One Plus One Hotel
+4.0,//dimg13.c-ctrip.com/images/fd/hotel/g5/M00/C0/14/CggYr1b5WC-Ae007ACAah5YtRmQ143_R_130_130.jpg,Diary of Taipei Wanguo
+3.9,//dimg13.c-ctrip.com/images/200j0a0000004cch82743_R_130_130.jpg,MEANDER Hostel
+4.7,//dimg13.c-ctrip.com/images/fd/hotel/g4/M09/97/88/CggYHVYtzs2AbBC-AAGHp2zJeLI013_R_130_130.jpg,Taipei Discover Hostel
+,//dimg13.c-ctrip.com/images/200g0i0000009dhz179F9_R_130_130.jpg,Hotelpoispois
+4.7,//dimg13.c-ctrip.com/images/200h0h000000917po3068_R_130_130.jpg,Hotel Royal Beitou
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g1/M03/D9/E0/CghzfFUSZwmAFasBAARqWPa1wAc038_R_130_130.jpg,NEOSOHO Work and Relax
+4.4,//dimg13.c-ctrip.com/images/fd/hotel/g2/M05/37/76/Cghzf1UbpaqAdHU9ABM56FPMe1E564_R_130_130.jpg,Amba Taipei Zhongshan
+4.3,//dimg12.c-ctrip.com/images/hotel/346000/345620/7b1e29b80c5d434db958d89fed4bff2c_R_130_130.jpg,Ximen Citizen Hotel
+3.9,//dimg13.c-ctrip.com/images/200b060000001rawf95BD_R_130_130.jpg,HOT SPRING RESORT
+0.0,//dimg13.c-ctrip.com/images/200m0e00000076re94208_R_130_130.jpg,Chez nous
+4.3,//dimg10.c-ctrip.com/images/200n070000002kaqwE6E5_R_130_130.jpg,台北一馆
+4.5,//dimg12.c-ctrip.com/images/fd/hotel/g5/M05/B1/D7/CggYsFbFWBOAHILyACU9tM5NrXY324_R_130_130.jpg,K HOTEL DUNNAN
+4.8,//dimg13.c-ctrip.com/images/200s080000003iyxs59B0_R_130_130.jpg,Beimen WOW Poshtel
+4.2,//dimg10.c-ctrip.com/images/fd/hotel/g5/M09/0A/9C/CggYr1b0G82APwOjAAD8rSQ5_dI159_R_130_130.jpg,NINE PLUS Spa Hot Spring Hotel
+4.7,//dimg10.c-ctrip.com/images/fd/hotel/g1/M03/7E/7E/CghzfFWXqTqAeTX4AAlaiVyqunE638_R_130_130.jpg,Cho Hotel
+3.7,//dimg11.c-ctrip.com/images/fd/hotel/g4/M0B/BD/9A/CggYHFZ45oGALCXPAAIFqpkjST0688_R_130_130.jpg,101 Good Cho’s
+4.4,//dimg11.c-ctrip.com/images/200q0400000006z2n8BD4_R_130_130.jpg,Le Tour sequence Boutique Hostel - the first three Hall Station
+4.8,//dimg11.c-ctrip.com/images/200h070000002pgzp6A84_R_130_130.jpg,Bouti City Capsule Inn
+4.4,//dimg12.c-ctrip.com/images/hotel/91000/90594/2f7fe37be7ad4ecbafe55a1094d05698_R_130_130.jpg,SATO Castle Hotel
+4.5,//dimg11.c-ctrip.com/images/fd/hotel/g3/M0A/49/61/CggYGVaYUmmAPyLfAA6xdBZFSEY505_R_130_130.jpg,Saual Keh Hotel
+4.6,//dimg10.c-ctrip.com/images/fd/hotel/g4/M02/03/27/CggYHVXdK0WAWJTaAAEzad9Ge2Y021_R_130_130.jpg,101 Amici hotel Six Star Hostel
+4.6,//dimg11.c-ctrip.com/images/hotel/860000/859157/cbdbc72ab0a044ac8e050bc0d6bf7073_R_130_130.jpg,Leofoo Residences
+4.0,//dimg13.c-ctrip.com/images/fd/hotel/g2/M02/D2/CE/Cghzf1V32feAHFwTAADWxola2LM806_R_130_130.jpg,Shihlin Ocean Hostel
+4.6,//dimg12.c-ctrip.com/images/200m0900000045dkn1263_R_130_130.jpg,Caishe Hotel
+,//dimg11.c-ctrip.com/images/200g0f0000007i53e1E30_R_130_130.jpg,G9 STAY
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g6/M0A/CC/6C/CggYs1ceUp2ACnM6AACLL_KV6dE033_R_130_130.jpg,At Boutique Hotel
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g4/M09/18/F5/CggYHVXJwlOAJeeLAAEmLGi2S_s974_R_130_130.jpg,CITIZEN HOTEL
+4.7,//dimg11.c-ctrip.com/images/200l0e00000078b8w056C_R_130_130.jpg,Oxygen Hostel
+5.0,//dimg12.c-ctrip.com/images/20030e00000076bq44D6D_R_130_130.jpg,Taipei main station Inn
+4.7,//dimg11.c-ctrip.com/images/fd/hotel/g6/M08/D8/A4/CggYs1b5zxKAfrkpAANbHteTH_A106_R_130_130.jpg,台北西宁馆
+4.4,//dimg11.c-ctrip.com/images/fd/hotel/g6/M08/8F/28/CggYslcwWW2AcKubAAPBbKCWq0A878_R_130_130.jpg,Hotel HD Palace Taipei
+,//dimg10.c-ctrip.com/images/200q0j000000alz7m6C52_R_130_130.jpg,Stay in Taipei
+4.2,//dimg10.c-ctrip.com/images/hotel/926000/925104/33a769d649e044c79ac82c5a6d307e43_R_130_130.jpg,Lihao Hotel
+4.3,//dimg12.c-ctrip.com/images/200q0h0000008ym7xE8E8_R_130_130.jpg,Green World Sansui
+4.6,//dimg11.c-ctrip.com/images/t1/hotel/927000/926042/faae9ac782ba43e9bd2062a9028b98b7_R_130_130.jpg,原台北大地北投奇岩温泉
+3.3,//dimg11.c-ctrip.com/images/fd/hotel/g5/M04/5A/7C/CggYsVcHCsOAOmfJAAJYe-HguU8903_R_130_130.jpg,101 Wonderland
+,//dimg12.c-ctrip.com/images/fd/hotel/g2/M02/C3/D4/Cghzf1VoHI2AC9iAAAFaI7R2U8Y443_R_130_130.jpg,Maos Place
+4.2,//dimg11.c-ctrip.com/images/200e050000000cmydE6D7_R_130_130.jpg,Dandy Hotel - Tianjin Branch
+4.3,//dimg12.c-ctrip.com/images/fd/hotel/g3/M0B/23/F6/CggYGlbNTQmAV_JiAAWUXTQLEqU468_R_130_130.jpg,台北长安馆
+4.6,//dimg13.c-ctrip.com/images/fd/hotel/g4/M0A/6C/F2/CggYHFY6rQeAIOWeAAHafbQnax8846_R_130_130.jpg,Le Maison Hotel
+4.5,//dimg11.c-ctrip.com/images/hotel/78000/77932/D00B33EC-A3F0-4357-B1C0-510574E430B0_R_130_130.jpg,台北林森馆
+4.6,//dimg11.c-ctrip.com/images/2001050000000d66uE429_R_130_130.jpg,Reachi9  Taipei Main Station HaoMei service Apartments
+4.3,//dimg12.c-ctrip.com/images/t1/hotel/1213000/1212355/435cced42c97413a9b29e2f99f156205_R_130_130.jpg,Hotel Prima Casa
+4.8,//dimg11.c-ctrip.com/images/t1/hotel/988000/987536/4a847d1a881d4c65a6ab6da59a5c3742_R_130_130.jpg,If Inn
+4.6,//dimg13.c-ctrip.com/images/fd/hotel/g3/M00/5F/DA/CggYGlXMAdiAPii7AAHUvA5C6Bk221_R_130_130.jpg,Taipei Good Place
+4.7,//dimg10.c-ctrip.com/images/fd/hotel/g4/M00/D6/FF/CggYHVaMvb6ARaKPABTWjRmYelU971_R_130_130.jpg,The Capital Hotel Taipei
+4.4,//dimg10.c-ctrip.com/images/fd/hotel/g2/M01/70/8B/CghzgVW4dWaANKyEAAIFNv5xW1o920_R_130_130.jpg,Tioi  hostel
+3.0,//dimg13.c-ctrip.com/images/fd/hotel/g2/M0A/99/3D/CghzgFVSyK2ANaHiAAD9n6_ATVc006_R_130_130.jpg,台北馆
+3.5,//dimg12.c-ctrip.com/images/hotel/140000/139730/860fc8dd759b4ceab1f085c08d1d933a_R_130_130.jpg,KING PLAZA HOTEL
+4.8,//dimg13.c-ctrip.com/images/200s0i0000009dedy7832_R_130_130.jpg,Colors Infinity Inn
+4.8,//dimg12.c-ctrip.com/images/fd/hotel/g2/M0B/44/DE/Cghzf1W3NkqAG_ptAALt3deWSt8159_R_130_130.jpg,台北复兴北路店
+4.6,//dimg13.c-ctrip.com/images/hotel/915000/914107/6d155f6704944a2085f8a09ec84cf258_R_130_130.jpg,Taipei Morning Hotel
+3.0,//dimg10.c-ctrip.com/images/fd/hotel/g2/M05/5F/64/Cghzf1U50z2AO5UDAACYMw7Fnzk096_R_130_130.jpg,Fun House
+4.3,//dimg10.c-ctrip.com/images/fd/hotel/g5/M09/61/7B/CggYr1cy9L2ASzF6AADH5lyi7NA883_R_130_130.jpg,Ciao Hotel
+4.7,//dimg10.c-ctrip.com/images/20020e00000073cd825E2_R_130_130.jpg,Gloria Residence
+4.2,//dimg13.c-ctrip.com/images/fd/hotel/g3/M0A/FC/55/CggYGVYAps6AKTiUAANG-0joRuU292_R_130_130.jpg,NEW CONTINENTAL HOTEL
+,//dimg10.c-ctrip.com/images/20020i0000009ja46CF93_R_130_130.jpg,台北波赫士馆
+3.7,//dimg12.c-ctrip.com/images/fd/hotel/g3/M03/D0/1B/CggYGlX9OnyAaWWKAAK_sJygQ5g736_R_130_130.jpg,Athena Hostel
+4.5,//dimg13.c-ctrip.com/images/200m080000002vpcd7DC7_R_130_130.jpg,BEAUTIQUE HOTEL
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g5/M02/AA/5C/CggYsVb4oRuAYFvwAAEaK-vMIjw307_R_130_130.jpg,Vone Hotel
+,//dimg10.c-ctrip.com/images/200t0i0000009f70v5F64_R_130_130.jpg,台北居里夫人馆
+4.6,//dimg10.c-ctrip.com/images/200c080000003d047495E_R_130_130.jpg,Hotel I-Journey
+4.0,//dimg11.c-ctrip.com/images/fd/hotel/g5/M02/A8/B1/CggYr1cW-xaAUjmmAAD0PoAvRLk378_R_130_130.jpg,ART’OTEL
+4.5,//dimg10.c-ctrip.com/images/fd/hotel/g4/M0A/ED/03/CggYHlXaheGAUVN2AAERuCxkJ7g547_R_130_130.jpg,Reedon Boutique Hotel
+4.4,//dimg10.c-ctrip.com/images/fd/hotel/g1/M08/94/54/CghzflV2TxyAXxVNAADSb2oHkjo362_R_130_130.jpg,FU-HAU HOTEL
+4.4,//dimg10.c-ctrip.com/images/fd/hotel/g6/M09/98/D6/CggYtFcrMJWAd7SOAAe4oqTSxrM116_R_130_130.jpg,Beauty Hotels Taipei-Hotel Bfun
+,//dimg13.c-ctrip.com/images/200w0i0000009ck4wE307_R_130_130.jpg,Livinn Service Apartment
+,//dimg13.c-ctrip.com/images/200c0j000000arc92BC17_R_130_130.jpg,NiHao Cafe Hotel
+,//dimg12.c-ctrip.com/images/20050c00000064h2j3F7F_R_130_130.jpg,台北成都馆
+5.0,//dimg11.c-ctrip.com/images/200h0i0000009it3i9810_R_130_130.jpg,台北长安店
+4.7,//dimg13.c-ctrip.com/images/fd/hotel/g6/M02/C2/CE/CggYtFb5vu6AcHoMAADKFVErO_0936_R_130_130.jpg,Westgate Hotel
+4.7,//dimg10.c-ctrip.com/images/200a0400000008j3oCBAA_R_130_130.jpg,原复北馆
+,//dimg12.c-ctrip.com/images/200c0i0000009c95fC959_R_130_130.jpg,Apartment 10F
+4.5,//dimg10.c-ctrip.com/images/200m090000003q56269CA_R_130_130.jpg,Forte Orange Hotel Ximen
+3.0,//dimg12.c-ctrip.com/images/2008070000002etgh42BA_R_130_130.jpg,HOUSE 11
+3.7,//dimg12.c-ctrip.com/images/fd/hotel/g4/M01/7C/9C/CggYHlaCIxuAcY94AAJOucVUw5U134_R_130_130.jpg,Stur House
+4.5,//dimg11.c-ctrip.com/images/20030j000000aru8j591C_R_130_130.jpg,Taipei 101 Apartment & Condo Building
+4.5,//dimg11.c-ctrip.com/images/fd/hotel/g5/M00/B3/3D/CggYr1czn4mAe1DTAAEuLEaQtBE268_R_130_130.jpg,The Longstay Hotel
+4.5,//dimg13.c-ctrip.com/images/20070i000000981hb7D31_R_130_130.jpg,Golden Hot spring Hotel
+,//dimg11.c-ctrip.com/images/200q0j000000a0t5t4ECF_R_130_130.jpg,台北约瑟夫馆
+,//dimg11.c-ctrip.com/images/2002070000002etfpE73F_R_130_130.jpg,Deluxe Apartment
+,//dimg11.c-ctrip.com/images/fd/hotel/g3/M05/23/54/CggYGVZpQrqAWgRCAAGmOF5qZwk513_R_130_130.jpg,BuBu Crystal
+5.0,//dimg12.c-ctrip.com/images/20090c0000006ofmlD13D_R_130_130.jpg,PLACE X HOTEL
+4.4,//dimg11.c-ctrip.com/images/200e060000001lv5l4E92_R_130_130.jpg,Royal Seasons Hotel Beitou
+4.5,//dimg13.c-ctrip.com/images/fd/hotel/g6/M03/00/E5/CggYtFb0FJ-ABqCMAAHEjCUHJGM651_R_130_130.jpg,Royal Inn Taipei Linsen
+4.6,//dimg13.c-ctrip.com/images/fd/hotelintl/g4/M01/53/09/CggYHFbNGXuADsJhAADV2azvbFg149_R_130_130.jpg,Dandy Hotel - Tianmu Branch
+,//dimg10.c-ctrip.com/images/20030g0000008nrhk9819_R_130_130.jpg,松隆馆
+1.0,//dimg11.c-ctrip.com/images/fd/hotel/g4/M05/17/F0/CggYHFZmphOAQwBvAAFVP_cVuqY790_R_130_130.jpg,B.A.G HOSTEL
+4.0,//dimg11.c-ctrip.com/images/fd/hotel/g4/M00/21/FB/CggYHlZVgzCAO8-8AAF7LJLOWQs828_R_130_130.jpg,Peter Home
+4.6,//dimg12.c-ctrip.com/images/20070h0000008vkhhECBF_R_130_130.jpg,台北车站
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g5/M0A/74/85/CggYsFcV8MqADOmYAAEwLo1mWF0291_R_130_130.jpg,原华丽饭店
+,//dimg10.c-ctrip.com/images/200l0g0000008841eABC9_R_130_130.jpg,永春馆
+,//dimg11.c-ctrip.com/images/20010g00000087ppp96DA_R_130_130.jpg,市府馆
+,//dimg10.c-ctrip.com/images/fd/hotel/g4/M00/23/D2/CggYHVZVgyyAOPpcAAF8I3k32T0348_R_130_130.jpg,台北二馆
+4.4,//dimg13.c-ctrip.com/images/t1/hotel/996000/995865/8ca52a8c710d441284cd6957ac30d0ed_R_130_130.jpg,Happy Home
+4.4,//dimg12.c-ctrip.com/images/fd/hotel/g2/M03/C4/AE/Cghzf1WQnMKAeIKOAAFQNdScB18000_R_130_130.jpg,TUR Door Hostel
+4.4,//dimg10.c-ctrip.com/images/200a0f0000007kpku1042_R_130_130.jpg,DONGMEN3 Capsule Inn
+,//dimg13.c-ctrip.com/images/200c0g00000086rns0AB7_R_130_130.jpg,台北中山馆
+3.6,//dimg10.c-ctrip.com/images/2002070000002et6w4A35_R_130_130.jpg,Michi Hotel
+4.3,//dimg13.c-ctrip.com/images/20090e00000073hb6A0E5_R_130_130.jpg,Duckstay Hostel
+4.6,//dimg11.c-ctrip.com/images/fd/hotel/g2/M05/AD/93/CghzgVWPW1WATGn0ABQh5tKEBx0678_R_130_130.jpg,Backpackers Hotel Ximen
+4.0,//dimg10.c-ctrip.com/images/2006070000002nmr012FE_R_130_130.jpg,Color Cloud Of South
+,//dimg10.c-ctrip.com/images/200l0d0000006we6y3727_R_130_130.jpg,台北昆明馆
+4.3,//dimg10.c-ctrip.com/images/fd/hotel/g4/M09/26/D0/CggYHVX2q0GAD0DtAAHnGtfzAag004_R_130_130.jpg,Arts NO.46
+1.0,//dimg12.c-ctrip.com/images/fd/hotel/g1/M02/47/C6/CghzflWeNuKAJcexABERQhp0s6Q517_R_130_130.jpg,Fuxing Apartment
+3.8,//dimg12.c-ctrip.com/images/20040b0000005yhrm99B7_R_130_130.jpg,Taipei Milla Hotel
+5.0,//dimg10.c-ctrip.com/images/200i0i000000999jm61EF_R_130_130.jpg,citizenM Taipei North Gate
+4.3,//dimg12.c-ctrip.com/images/fd/hotel/g5/M07/97/BE/CggYr1cdzteAXNLrAAJB85TVOpQ745_R_130_130.jpg,Green World Grand NanJing
+,//dimg13.c-ctrip.com/images/20060c000000657ue26A9_R_130_130.jpg,Meimei house
+5.0,//dimg13.c-ctrip.com/images/20090c00000064gruD77E_R_130_130.jpg,台北林森M12馆
+4.5,//dimg13.c-ctrip.com/images/fd/hotel/g2/M01/56/1B/CghzgVWBC4qAfmkwAAHCQw-rkMI401_R_130_130.jpg,Poetry Hostel
+4.6,//dimg12.c-ctrip.com/images/20020c00000064fma4702_R_130_130.jpg,Footprints Hostel
+,//dimg11.c-ctrip.com/images/fd/hotel/g2/M03/D3/09/CghzgVV34omAAmpBAADfsMA8vpc452_R_130_130.jpg,Ane bnb 4 Fabulous home
+4.6,//dimg12.c-ctrip.com/images/2006060000001xwck05EF_R_130_130.jpg,STAR HOUSE
+4.1,//dimg10.c-ctrip.com/images/fd/hotel/g4/M09/4A/DF/CggYHFX36xSAPIdAAAaOTscUWjQ840_R_130_130.jpg,DreamHouse
+4.1,//dimg11.c-ctrip.com/images/fd/hotel/g6/M01/39/9F/CggYs1awdX2AOf2dAAP9gp1baaI971_R_130_130.jpg,Nest in 101 Taipei
+3.9,//dimg11.c-ctrip.com/images/200a0b0000005yntq29DD_R_130_130.jpg,台北士林馆
+0.0,//dimg13.c-ctrip.com/images/fd/hotel/g2/M08/E0/36/CghzgFSRLiKAUEXTABJRy-73ntM705_R_130_130.jpg,U HOTEL-XIMEN
+,//dimg12.c-ctrip.com/images/fd/hotel/g4/M0B/2F/37/CggYHVZ3X32AZ9RJAAC5t1JUNVE267_R_130_130.jpg,Ane bnb 3 101 opposite
+4.5,//dimg11.c-ctrip.com/images/200w060000001g9i8410E_R_130_130.jpg,Taipei Meet 2 3
+4.6,//dimg11.c-ctrip.com/images/20050d0000006vi807D26_R_130_130.jpg,台北车站馆
+4.2,//dimg13.c-ctrip.com/images/200o0a0000004ekkl859B_R_130_130.jpg,原梦想家民宿
+,//dimg11.c-ctrip.com/images/200l0g00000086vdo07DD_R_130_130.jpg,
+3.6,//dimg12.c-ctrip.com/images/200o09000000482e41927_R_130_130.jpg,台北车站馆
+4.8,//dimg10.c-ctrip.com/images/20010h0000008tg4yEC03_R_130_130.jpg,On My Way Taipei Hostel
+4.4,//dimg12.c-ctrip.com/images/200r0a0000004o3noDDB8_R_130_130.jpg,Ximen Just in time time Hostels
+4.5,//dimg11.c-ctrip.com/images/200b0j000000au7786BE6_R_130_130.jpg,台北六福馆
